@@ -1,0 +1,11 @@
+.dash {
+    font-size: 30px;
+    ;
+}
+
+.marginleft {
+    margin-left: 2rem;
+    padding: 20px 0px;
+    /* left: auto; */
+    /* added */
+}
