@@ -1,3 +1,5 @@
+This is Complete Project For School Management System It contain 3 Modules Admin,Teacher and Student First Create Database and then migrate table queries Manually add one admin to login once Then Add new teacher and student from Menu to explore website. For Any Query you can email me at: waqas1998886@gmail.com
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
